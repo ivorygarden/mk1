@@ -4010,3 +4010,11 @@ section.lazy-placeholder:after {
     justify-content: center;
   }
 }
+.main_ul {
+  color: white !important;
+}
+.main_ul li.main_li_item {
+  text-align: start;
+  margin-top: 10px;
+  line-height: 26px;
+}
